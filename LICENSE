@@ -1,4 +1,14 @@
+Dual License: MIT + Palimpsest v0.8
+
+This software is licensed under EITHER:
+- MIT License (below), OR
+- Palimpsest License v0.8 (below)
+
+You may choose which license to use.
+
+==============================================================================
 MIT License
+==============================================================================
 
 Copyright (c) 2025 Hyperpolymath
 
@@ -19,3 +29,84 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+==============================================================================
+Palimpsest License v0.8
+==============================================================================
+
+SPDX-License-Identifier: Palimpsest-0.8
+
+## Core Freedoms
+
+You are free to:
+- **Use** this software for any purpose
+- **Study** how it works and modify it
+- **Share** copies with others
+- **Improve** and distribute your improvements
+
+## Ethical Constraints
+
+You may NOT use this software to:
+- Violate human rights or dignity
+- Facilitate surveillance capitalism
+- Support authoritarian regimes
+- Harm the environment
+- Exploit vulnerable populations
+- Enable discrimination
+
+## Technical Requirements
+
+1. **Attribution**: Credit the original authors
+2. **Source Availability**: Provide source code for modifications
+3. **Share-Alike**: Derivative works use this license
+4. **Patent Grant**: No patent claims against users
+
+## Governance
+
+- **Decentralization**: No central authority required
+- **Community**: Decisions via consensus where possible
+- **Transparency**: Changes publicly documented
+- **Reversibility**: Mistakes can be undone
+
+## Commercial Use
+
+- **Permitted**: Commercial use is allowed
+- **Restrictions**: Must follow ethical constraints
+- **Contributions**: Improvements should be shared back
+- **Support**: Commercial support is encouraged
+
+## Warranty Disclaimer
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Jurisdiction
+
+This license is governed by principles of international law and human rights,
+not any specific national jurisdiction.
+
+## Version
+
+Palimpsest License v0.8
+Published: 2025
+Maintained by: Hyperpolymath Community
+Full Text: https://github.com/hyperpolymath/licenses/palimpsest/v0.8
+
+## Notes
+
+The Palimpsest License is designed for politically autonomous software that
+respects human dignity while remaining free and open source. It combines
+ethical software principles with practical open source freedoms.
+
+Choose the MIT License if you prefer traditional permissive licensing.
+Choose the Palimpsest License if you want ethical constraints.
+
+==============================================================================
+
+For questions about licensing, contact: legal@hyperpolymath.org

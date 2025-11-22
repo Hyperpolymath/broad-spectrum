@@ -1,0 +1,169 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Lead Developer / Architect: Hyperpolymath
+    GitHub: @hyperpolymath
+    Location: Earth
+
+    AI Assistant: Claude (Anthropic)
+    Model: Claude Sonnet 4.5
+    Role: Implementation assistance, code generation
+    Session: 2025-11-22
+
+# THANKS
+
+    ReScript Community: For the excellent type-safe functional language
+    Deno Team: For the secure, modern JavaScript runtime
+    Open Source Contributors: For the ecosystem we build upon
+    Future Contributors: We welcome you!
+
+# TECHNOLOGY COLOPHON
+
+    ## Languages
+    ReScript (primary business logic)
+    TypeScript (bindings and CLI)
+    JavaScript (compiled output)
+
+    ## Runtime
+    Deno 1.30+
+    Node.js (build tools only)
+
+    ## Build Tools
+    ReScript Compiler 11.0+
+    GenType 4.5+ (TypeScript FFI)
+    npm (dependency management)
+
+    ## Core Libraries
+    @rescript/core (standard library)
+    Deno Standard Library
+
+    ## Standards Compliance
+    WHATWG URL Standard
+    RFC 9116 (security.txt)
+    WCAG 2.1 (accessibility)
+    Semantic Versioning
+    Conventional Commits
+
+    ## Development Tools
+    Git (version control)
+    GitHub (hosting)
+    VS Code (recommended editor)
+
+    ## Testing
+    Deno Test Framework
+    Unit Tests
+    Integration Tests
+
+    ## Documentation
+    Markdown
+    JSDoc/ReScriptDoc
+    Architecture Decision Records
+
+# SITE
+
+    Standards: ES2020+, TypeScript, ReScript
+    Components: CLI, ReScript Modules, TypeScript Bindings
+    Software: Deno, ReScript Compiler
+
+    ## Project Stats
+    Start Date: 2025-11-22
+    Total Lines: 6,700+
+    Modules: 14 (8 ReScript + 6 TypeScript)
+    Tests: 3 test suites
+    Documentation: 10 files
+
+    ## Repository
+    GitHub: https://github.com/Hyperpolymath/broad-spectrum
+    License: MIT
+    Version: 1.0.0
+
+# VALUES
+
+    Type Safety: Compile-time correctness
+    Functional Programming: Immutability and pure functions
+    Security: Secure by default
+    Documentation: Comprehensive and clear
+    Testing: High coverage and quality
+    Open Source: Community-driven development
+    Accessibility: WCAG compliant tooling
+    Performance: Fast and efficient
+    Maintainability: Clean and modular code
+
+# DESIGN PRINCIPLES
+
+    Offline-First: Works without network (where possible)
+    Type-Safe: No runtime type errors
+    Functional: Immutable, pure functions
+    Modular: Clear separation of concerns
+    Tested: High test coverage
+    Documented: Self-explanatory code and docs
+    Reversible: Experiments are safe
+    Welcoming: Contributor-friendly
+
+# FRAMEWORKS & STANDARDS
+
+    RSR (Rhodium Standard Repository)
+    TPCF (Tri-Perimeter Contribution Framework)
+    Contributor Covenant Code of Conduct
+    Semantic Versioning
+    Keep a Changelog
+    Conventional Commits
+
+# CONTACT
+
+    Issues: https://github.com/Hyperpolymath/broad-spectrum/issues
+    Discussions: https://github.com/Hyperpolymath/broad-spectrum/discussions
+    Security: security@hyperpolymath.org
+    General: contact@hyperpolymath.org
+
+# ATTRIBUTION
+
+    Original Concept: Website auditing tool
+    Inspiration: zotero-voyant-export (complete rewrite)
+    Architecture: Functional programming + type safety
+    Community: Open source contributors
+
+# LEGAL
+
+    License: MIT (see LICENSE file)
+    Copyright: 2025 Hyperpolymath
+    Trademark: None
+    Patents: None
+
+# SUSTAINABILITY
+
+    Funding: None (currently volunteer-driven)
+    Sponsorship: Open to sponsorship
+    Commercial Use: Permitted under MIT License
+    Support: Community-based (GitHub)
+
+# ACCESSIBILITY
+
+    WCAG Level: Tooling supports AA compliance checking
+    Screen Readers: CLI is screen-reader friendly
+    Documentation: Plain language, clear structure
+    Internationalization: English (contributions welcome)
+
+# ENVIRONMENTAL
+
+    Carbon Footprint: Minimal (static compilation, efficient runtime)
+    Green Hosting: Depends on deployment
+    Efficiency: Async/await, parallel processing
+    Resource Usage: Low memory, CPU efficient
+
+# FUTURE
+
+    Roadmap: See CHANGELOG.md
+    Vision: Production-ready website auditing
+    Community: Growing contributor base
+    Innovation: Functional programming in web tooling
+
+    "Built with care, shared with love, improved by community"
+
+# LAST UPDATED
+
+    Date: 2025-11-22
+    Humans.txt Version: 1.0
+    Project Version: 1.0.0
